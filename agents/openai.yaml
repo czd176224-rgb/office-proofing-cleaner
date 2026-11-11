@@ -1,0 +1,4 @@
+interface:
+  display_name: "Office 红色波浪线处理"
+  short_description: "统一处理 Word 与 PPT 校对波浪线，自动识别格式并保留原稿"
+  default_prompt: "请使用 $office-proofing-cleaner 处理指定 Word 或 PPT 文件中的校对波浪线，保留原稿，说明采用的处理方式并验证结果。"
